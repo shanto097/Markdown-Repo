@@ -71,7 +71,7 @@ In the example bellow `<img>` tag is a empty tag as it doesn't have any ending t
 
 **Output**
 
-<img src="parrot.jpg" alt="picture of a parrot" width="300px" height="200px" style="display: block; margin: 0 auto; margin-bottom: 40px">
+<img src="parrot.jpg" alt="picture of a parrot" width="300px" height="200px" style="display: block; margin: 0 auto;">
 
 
 For full tag list follow this [`link`](https://w3school.org/tag_list).
@@ -79,7 +79,7 @@ For full tag list follow this [`link`](https://w3school.org/tag_list).
 ## HTML Demo
 A simple webpage marked using HTML is shown bellow:
 
-![A simple blog webpage](webpage.png)
+![A simple blog webpage](webpage.PNG)
 
 
 ## Conclusion
